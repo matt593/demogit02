@@ -1,12 +1,26 @@
+body{
+    background-color: bisque;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
 .menu{
+    
 
 }
 
 .menu__el{
+    list-style-type: none;
+    display: flex;
+    
 
+}
+
+.menu .menu__el li{
+    margin: 5px;
 }
 
 
 .tittle--big{
-    
+
 }
